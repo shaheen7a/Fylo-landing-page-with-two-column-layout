@@ -1,6 +1,9 @@
 # Frontend Mentor - Huddle landing page with curved sections solution
 
-This is a solution to the [Fylo landing page with two column layout challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+![Design preview for the Clipboard landing page coding challenge](./images/desktop-preview.jpg)
+
+## Welcome! 👋
+Thanks for checking out this front-end coding challenge.
 
 ## Overview
 
@@ -33,4 +36,5 @@ Users should be able to:
 - Frontend Mentor - [@shaheen121](https://www.frontendmentor.io/profile/Shaheen121)
 - Facebook - [@aoushaheen7](https://www.facebook.com/shaheen7tl/)
 
-Thanks
+By me 🚀🚀🚀
+Aous Shaheen
